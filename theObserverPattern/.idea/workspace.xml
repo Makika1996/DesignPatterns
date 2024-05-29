@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="663ba3f3-6731-4375-9c8f-98b65e689635" name="Changes" comment="" />
+    <list default="true" id="663ba3f3-6731-4375-9c8f-98b65e689635" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../theDecoratorPattern/src/Beverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../theDecoratorPattern/src/Beverage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Beverage.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,9 +20,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2h8pJnIasRzLW53InKZytmRaG0Y" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -32,6 +35,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Projekte/DesignPatterns/theObserverPattern",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -53,6 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1716985490286</updated>
       <workItem from="1716985491356" duration="90000" />
+      <workItem from="1716985715367" duration="173000" />
     </task>
     <servers />
   </component>
