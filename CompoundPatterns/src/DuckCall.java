@@ -1,4 +1,4 @@
-public class DuckCall implements Quackable{
+public class DuckCall implements Quackable {
     Observable observable;
 
     public DuckCall() {
